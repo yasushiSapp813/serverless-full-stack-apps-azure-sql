@@ -17,7 +17,7 @@ env:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-leatest
     steps:
 
     - name: Checkout GitHub Action
